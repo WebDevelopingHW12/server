@@ -8,7 +8,7 @@ import (
 	"github.com/dgrijalva/jwt-go/request"
 )
 
-const secret = "bigbrother"
+const secret = "WebDevelopingHW12"
 
 type token struct {
 	Name string `json:"name"`
