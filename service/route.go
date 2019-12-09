@@ -4,13 +4,13 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/github-user/server/models"
+	"github.com/WebDevelopingHW12/server/models"
 
 	"github.com/gorilla/mux"
 	"github.com/unrolled/render"
 	"github.com/urfave/negroni"
 
-	"github.com/github-user/server/database/database"
+	"github.com/WebDevelopingHW12/server/database/database"
 )
 
 // NewServer configures and returns a Server.

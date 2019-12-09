@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/github-user/server/service"
+	"github.com/WebDevelopingHW12/server/service"
 	flag "github.com/spf13/pflag"
 )
 

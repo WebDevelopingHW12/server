@@ -7,11 +7,11 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/github-user/server/database/database"
+	"github.com/WebDevelopingHW12/server/database/database"
 	jwt "github.com/dgrijalva/jwt-go"
 )
 
-const secret = "bigbrother"
+const secret = "WebDevelopingHW12"
 
 type User struct {
 	Username string `json:"username"`

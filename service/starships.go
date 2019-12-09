@@ -8,7 +8,7 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/unrolled/render"
 
-	"github.com/github-user/server/database/database"
+	"github.com/WebDevelopingHW12/server/database/database"
 )
 
 //handle a request with method GET and path "/api/".
